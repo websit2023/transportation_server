@@ -31,5 +31,8 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.3",
     "ts-node": "^10.9.1"
+  },
+  "engines": {
+    "node": ">=14 <15"
   }
 }
